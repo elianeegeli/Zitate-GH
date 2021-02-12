@@ -1,0 +1,79 @@
+
+[
+    {
+        "bild": "Stille",
+        "titel": "In der Stille angekommen"  ,
+        "gedicht": [
+            "In der Stille angekommen",
+            "gehe ich in mich,",
+            "stehe ich zu meinen",
+            "Stärken und Schwächen,",
+            "liegen mir mein Leben",
+            "und die Liebe",
+            "am Herzen.",
+            "In der Stille angekommen,",
+            "sehe ich mich, dich, euch",
+            "und die Welt",
+            "mit anderen Augen,",
+            "mit den Augen des Herzens.",
+            "In der Stille angekommen,",
+            "höre ich auf mein Inneres,",
+            "spüre ich Geborgenheit,",
+            "lerne ich Gelassenheit,",
+            "tanke ich Vertrauen."
+        ] ,
+        "author": "Ernst Ferstl",
+        "information": [
+            "Ernst Ferstl (*1955), österreichischer Lehrer, Dichter und Aphoristiker",
+            "Quelle: Ferstl, Herznah. Gedichte, Asaro-Verlag 2003"
+        ]
+    },
+    {
+        "bild": "Spatzen",
+        "titel": "Die drei Spatzen"  ,
+        "gedicht": [
+            "In einem leeren Haselstrauch",
+            "da sitzen drei Spatzen, Bauch an Bauch",
+            " ",
+            "Der Erich rechts und links der Franz",
+            "und mitten drin der freche Hans.",
+            " ",
+            "Sie haben die Augen zu, ganz zu,",
+            "und oben drüber da schneit es , hu!",
+            " ",
+            "Sie rücken zusammen, dicht an dicht.",
+            "So warm wie der Hans hat's niemand nicht.",
+            " ",
+            "Sie hör'n alle drei ihrer Herzlein Gepoch.",
+            "Und wenn sie nicht weg sind, so sitzen sie noch."
+        ] ,
+        "author": "Christian Morgenstern ",
+        "information": [
+            "Christian Morgenstern (1871 - 1914), deutscher Schriftsteller, Dramaturg, ",
+            "Journalist und Übersetzer"
+        ]
+    },
+    {
+        "bild": "Ohne Sorgen",
+        "titel": "Ohne Vorbehalt und ohne Sorgen "  ,
+        "gedicht": [
+            "Ohne Vorbehalt und ohne Sorgen ,",
+            "Leg ich meinen Tag in Deine Hand.",
+            "Sei mein Heute, sei mein Morgen,",
+            "Sei mein Gestern, das ich überwand.",
+            " ",
+            "Frag mich nicht nach meinen Sehnsuchtswegen,",
+            "Bin aus Deinem Mosaik ein Stein.",
+            "Wirst mich an die rechte Stelle legen,",
+            "Deinen Händen bette ich mich ein."
+        ] ,
+        "author": "Teresia Benedicta a Cruce",
+        "information": [
+            "(1891 - 1942), Ordensname Teresia Benedicta a Cruce (Theresia Benedikta vom Kreuz), ",
+            "deutsche (jüdische) Philosophin und Karmelitin, ",
+            "in Auschwitz ermordet. ",
+            " ",
+            "1987 selig und 1998 heilig gesprochen von Papst Johannes Paul "
+        ]
+    }
+]
