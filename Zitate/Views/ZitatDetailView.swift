@@ -21,7 +21,7 @@ struct ZitatDetailView: View {
                     .scaledToFill()
                     .clipped()
                 VStack (alignment: .center) {
-                    Text ("Gedicht")
+                    Text ("Gedicht / Zitate")
                         .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
                         .padding(.bottom)
                     
